@@ -6,7 +6,7 @@ Learning opportunity to familarise myself with most important vulneralbilities a
 
 ## Challenges
 
-* - In progress
+\* means in progress
 
 - Injection
     - SQL Injection*
